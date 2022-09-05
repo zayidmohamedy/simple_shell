@@ -378,6 +378,7 @@ $ echo "error! || echo 'but still runs'" | ./shellby
 
 
 
+
 The operators `&&` and `||` have equal precedence, followed by `;`.
 
 
